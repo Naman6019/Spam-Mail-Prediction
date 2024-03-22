@@ -1,3 +1,3 @@
-### Spam-Mail-Prediction
+###Spam-Mail-Prediction
 
 # Machine Learning Project done using Logistic Regression Training Model
